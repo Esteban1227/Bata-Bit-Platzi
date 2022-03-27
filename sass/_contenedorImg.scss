@@ -1,0 +1,17 @@
+.contenedor__Img{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    width: 100%;
+        h2{
+            margin-top: 64px;
+            position: absolute;
+            z-index: 1000;
+            color: white;
+            font-size: 24px;
+        }
+    &--width{
+        width: 516px;
+        position: relative;
+    }
+}

@@ -1,0 +1,14 @@
+.contenedorS{
+    width: 100%;
+    margin-top: -30px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    &__Selector{
+        border: none;
+        border-radius: 5px;
+        box-shadow: $colorSombra;
+        background: $colorSelector;
+        padding: 15px;
+    }
+}
